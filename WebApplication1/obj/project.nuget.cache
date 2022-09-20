@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+bvZFkx7hS4E7rQs/hh/V5mApoEMxm+UxiU5DEoCapE4BOxJg3TAwvVFb0h9q/9MRrkBW39SWoOfuVQj2Bqjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\calender\\Calendar\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
