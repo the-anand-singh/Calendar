@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApplication1.Entities
+namespace Calendar.Entities
 {
     [Table("Manager")]
     public class Manager
@@ -13,7 +13,8 @@ namespace WebApplication1.Entities
         [Key]
         public string ManagerID { get; set; }
         public string ManagerPassword { get; set; }
-        
+        public string Name { get; set; }
+
     }
 
 }

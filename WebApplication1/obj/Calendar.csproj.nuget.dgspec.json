@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\Calendar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\Calendar.csproj",
+        "projectName": "Calendar",
+        "projectPath": "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\Calendar.csproj",
         "packagesPath": "C:\\Users\\reach\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\reach\\Source\\Repos\\Calendar\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
