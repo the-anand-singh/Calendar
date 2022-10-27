@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Calendar.Entities;
 
-namespace Calendar.Repositories
+namespace Calendar.IRepositories
 {
     public interface IAppointmentRepository
     {
